@@ -3,7 +3,7 @@
     <div style="width: fit-content; margin: 25px auto">
       <h3>样式设置</h3>
     </div>
-    <div>
+    <div style="text-align: center">
       <span>列数：</span>
       <el-input-number
         v-model="rowNum"

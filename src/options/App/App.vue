@@ -11,7 +11,7 @@
           "
         >
           <span>老 机 de 收 藏</span>
-          <span style="font-size: 14px">version: 1.1.0</span>
+          <span style="font-size: 14px">version: 1.1.1</span>
         </div>
       </div>
     </el-header>

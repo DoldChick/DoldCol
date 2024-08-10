@@ -7,6 +7,8 @@ import router from '../router';
 import VueLazyload from 'vue-lazyload';
 Vue.use(VueLazyload)
 
+import FileSaver from 'file-saver';
+
 import '../assets/icons'
 
 Vue.config.devtools = true;
